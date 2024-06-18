@@ -57,8 +57,3 @@ type = "request"
 [debugger.interactive.launchMessage.arguments]
 classPaths = ["."]
 mainClass = "Main"
-
-[[ports]]
-localPort = 60080
-externalPort = 80
-exposeLocalhost = true
